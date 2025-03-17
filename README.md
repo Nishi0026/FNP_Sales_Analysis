@@ -1,8 +1,8 @@
-#Sales Analysis Project – FNP (Ferns N Petals)
+Sales Analysis Project – FNP (Ferns N Petals)
 
 This project analyzes the 2023 sales data of FNP (Ferns N Petals), a leading gifting and floral retail company. The dataset consists of 1,000+ rows, covering order details, revenue, customer spending, and delivery performance.
 
-#Objective:
+Objective:
 The primary goal of this sales analysis is to derive actionable insights from the data to enhance business performance, customer satisfaction, and sales strategy. Key focus areas include:
 
 Revenue trends by month, occasion, and product category.
